@@ -4,6 +4,8 @@
  * @desc Juste pour les algorithmes
  * @author Aélion - Déc. 2018
  * @version 1.0.0
+ * @version 1.0.1
+ * Externilastion des fonctions dans un fichier externe
  */
 
 
